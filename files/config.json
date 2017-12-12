@@ -1,0 +1,31 @@
+{
+    "server":"207.246.107.151",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "port_password":{
+         "8989":"tanyun1610191",
+         "9001":"tanyun1610192",
+         "9002":"tanyun1610193",
+         "9003":"tanyun1610194",
+         "9004":"tanyun1610195"
+     },
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open": false
+}
+
+{
+    "server":"0.0.0.0",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "port_password":{
+         "8989":"password0",
+         "9001":"password1",
+         "9002":"password2",
+         "9003":"password3",
+         "9004":"password4"
+    },
+    "timeout":300,
+    "method":"your_encryption_method",
+    "fast_open": false
+}
