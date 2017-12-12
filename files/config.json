@@ -1,13 +1,13 @@
 {
-    "server":"207.246.107.151",
+    "server":"yourip",
     "local_address":"127.0.0.1",
     "local_port":1080,
     "port_password":{
-         "8989":"tanyun1610191",
-         "9001":"tanyun1610192",
-         "9002":"tanyun1610193",
-         "9003":"tanyun1610194",
-         "9004":"tanyun1610195"
+         "8989":"xtanyun1610191xx",
+         "9001":"xtanyun1610192xx",
+         "9002":"xtanyun1610193xx",
+         "9003":"xtanyun1610194xx",
+         "9004":"xtanyun1610195xx"
      },
     "timeout":300,
     "method":"aes-256-cfb",
